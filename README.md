@@ -25,4 +25,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iampd-23/Portfolio-Project.git
+   https://github.com/ManavChandak2/Portfolio.git
